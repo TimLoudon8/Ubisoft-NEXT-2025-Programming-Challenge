@@ -1,0 +1,26 @@
+﻿  GameTest.cpp
+C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(8,9): warning C4603: 'NOMINMAX': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/GameTest.cpp')
+      C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(8,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(9,1):
+      use of precompiled header
+  
+C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(65,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/GameTest.cpp')
+  
+C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(472,12): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/GameTest.cpp')
+  
+C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(479,12): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/GameTest.cpp')
+  
+C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(486,12): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/GameTest.cpp')
+  
+C:\Users\loudt\Desktop\Ubisoft\API\GameTest\GameTest.cpp(493,12): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/GameTest.cpp')
+  
+  GameTest.vcxproj -> C:\Users\loudt\Desktop\Ubisoft\API\x64\Debug\GameTest.exe
+  C:\Users\loudt\Desktop\Ubisoft\API\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
